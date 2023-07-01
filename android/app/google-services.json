@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356852272044",
+    "project_id": "share-food-013369",
+    "storage_bucket": "share-food-013369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356852272044:android:670515171893f76bfe4809",
+        "android_client_info": {
+          "package_name": "com.example.food_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356852272044-pi3jfejlbqu00r1qs8l44bts3d4pk10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnk5FTpM2IXvySA2xtrPlT-wfVrJEWfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356852272044-pi3jfejlbqu00r1qs8l44bts3d4pk10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
